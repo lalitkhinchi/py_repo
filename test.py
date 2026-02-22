@@ -1,7 +1,7 @@
 # Simple Python test program
 
 def main():
-    print("Hello, World!")
+    print("Hello, lalit!")
     print("This is a basic Python test program.")
     
     # Simple calculation
