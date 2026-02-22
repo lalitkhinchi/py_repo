@@ -1,7 +1,8 @@
 # basic_input_script.py
 
-name = input("Enter your name: ")
-age = input("Enter your age: ")
+name = input("lalit khinchi: ")
+age = input("42: ")
 
 print("Hello", name)
+
 print("You are", age, "years old.")
