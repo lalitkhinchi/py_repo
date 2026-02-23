@@ -1,6 +1,6 @@
 # Simple Python test program
 
-def main:
+def main():
     print("Hello, lalit!")
     print("This is a basic Python test program.")
     
